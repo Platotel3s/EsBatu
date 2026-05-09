@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "EsBatu",
+    "slug": "EsBatu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ice.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.adonaiekhad48.EsBatu"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "317c3cd3-43ba-40a1-8050-22bbb86ee63a"
+      }
+    }
+  }
+}
